@@ -1,0 +1,24 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  margin: 0;
+}
+
+/*landing page animation*/
+.slide-right{
+  opacity: 0;
+  transform: translateX(-100%);
+  transition: opacity 0.5s, transform 0.5s;
+}
+
+.appear{
+  opacity: 1;
+  transform: translateX(0);
+  transition: opacity 1.5s ease-in;
+}
+
+.slide-left{
+  opacity: 0;
+  transform: translateX(100%);
+  transition: opacity 0.5s, transform 0.5s;
+}
