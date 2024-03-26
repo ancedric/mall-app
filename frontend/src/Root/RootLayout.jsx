@@ -5,7 +5,7 @@ import Bottombar from '../Components/RootComponents/Bottombar'
 
 function RootLayout() {
   return (
-    <div>
+    <div className="root-layout">
       <Topbar/>
       <LeftSidebar/>
       <RightHiddenbar/>

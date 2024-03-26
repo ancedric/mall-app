@@ -22,3 +22,12 @@
   transform: translateX(100%);
   transition: opacity 0.5s, transform 0.5s;
 }
+
+/*rootLayout style*/
+
+.root-layout{
+  display: flex;
+  justify-content:space-between;
+  align-items: center;
+  width: 100vw;
+}
