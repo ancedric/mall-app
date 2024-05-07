@@ -13,7 +13,7 @@ const InfoCard = ({infos}) => {
     "border-image" : "linear-gradient(to bottom, #fff, #2c0f4d)",
     "border-image-slice" : "1",
     "padding" : "10px",
-    "border-radius" : "30px",
+    "border-radius" : "13px",
   }
 
   const figure ={

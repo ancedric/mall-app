@@ -12,20 +12,20 @@ import SignIn from './Authentication/SignIn'
 
 function LandingPage() {
   const title1 = {
-    "font-size":"8em",
+    "font-size":"6em",
     "font-family":"sans-serif",
     "height":"100px",
     "margin-top":"50px",
     "margin-left":"600px",
   };
   const title2 = {
-    "font-size":"8em",
+    "font-size":"6em",
     "font-family":"sans-serif",
     "height":"100px",
     "margin-left":"400px",
   };
   const title3 = {
-    "font-size":"8em",
+    "font-size":"6em",
     "font-family":"sans-serif",
     "height":"100px",
     "margin-left":"510px",
