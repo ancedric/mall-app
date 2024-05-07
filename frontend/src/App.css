@@ -6,6 +6,9 @@
 }
 
 /*landing page animation*/
+.card{
+  border-radius: 13px;
+}
 .slide-right{
   opacity: 0;
   transform: translateX(-100%);
